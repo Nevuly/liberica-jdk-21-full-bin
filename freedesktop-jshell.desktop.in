@@ -2,8 +2,8 @@
 Name=OpenJDK Java @@VER@@ Shell
 Comment=OpenJDK Java @@VER@@ Shell
 Keywords=java;shell
-Exec=@@PATH@@/bin/jshell
+Exec=/usr/lib/jvm/liberica-jdk-21-full/bin/jshell
 Terminal=true
 Type=Application
-Icon=@@ICON@@
+Icon=liberica-jdk-21-full
 Categories=Application;System;
